@@ -1,3 +1,5 @@
+Note: refer to https://github.com/tealeeseng/ros2learn for future update.
+
 This is NOT the official ros2learn repo. Here is the [report](https://docs.google.com/presentation/d/1p4OgVFWIdM90edgxUO-WVlWRLzJsPBJvdZayTlmQEjs/edit?usp=sharing) about our project.
 Our robotic workspace can be found at https://github.com/XiaoyanYang2008/ros2learn/tree/dashing/robot_ws
 
